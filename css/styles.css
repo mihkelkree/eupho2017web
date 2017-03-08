@@ -64,6 +64,10 @@ a {
     outline-width: 0;
     text-decoration: none; }
 
+.heading-padding-bottom {
+  padding-bottom: 60px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
   margin: 0; }
@@ -2511,6 +2515,11 @@ input.field {
 
 .img-fluid {
   max-width: 100%; }
+
+.img-sponsor {
+  width: 100%;
+  padding-top: 20px;
+}
 
 .field {
   width: 100%; }
