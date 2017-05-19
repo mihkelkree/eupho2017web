@@ -280,6 +280,10 @@ fieldset {
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em; }
 
+.myentry {
+  margin-left:2em;	
+  }
+
 legend {
   box-sizing: border-box;
   color: inherit;
